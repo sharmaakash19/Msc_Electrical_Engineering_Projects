@@ -22,7 +22,7 @@ Key features:
 
 ---
 
-## PNOCT Performance Evaluation
+## NOCT Performance Evaluation
 
 Simulation was performed under:
 - 800 W/m² irradiance
